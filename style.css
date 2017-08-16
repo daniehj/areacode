@@ -1,0 +1,74 @@
+body{
+    padding: 0;
+    margin: 0;
+    color:#000;
+    font-family: 'Merriweather', serif;
+}
+
+.left{
+    width:30%;
+	min-width:500px;
+	float: left;
+	overflow:hidden;
+	margin-left: 5px;
+}
+
+.right{
+	width:30%;
+	min-width:500px;
+	margin-left: 5px;
+	float:left;
+}
+
+.header{
+    background-color:#102c59;
+    color:#fff;
+    padding:0;
+    width:100%;
+}
+.header h1{
+    padding:0px 0px 0px 20px;
+    float: left;
+}
+
+.logout{
+    float:right;
+    font-size:1.2em;
+    padding:30px 20px 0px 0px;
+}
+
+input, select{
+    width:300px;
+    color:#000;
+}
+
+textarea{
+    width: 400px;
+    height: 121px;
+}
+
+.content{
+    margin-top:20px;
+    padding-bottom: 20px;
+}
+
+.header a{
+    color:#fff;
+    text-decoration: none;
+}
+
+.header a:hover{
+    color:#d3dae5;
+    text-decoration: none;
+}
+
+td label{
+    color:#fff;
+
+}
+
+#map{
+    width:100%;
+    height:400px;
+    background-color:#dadafa;
+}
