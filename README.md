@@ -1,4 +1,4 @@
-# # areacode
+# areacode
 
 An website using .php, mySQL and Google Maps API
 
